@@ -7,7 +7,28 @@
 
 ### Rasmus
 -etusivu
-### Lauri
--hinnasto
 ### Iiro
+-hinnasto
+### Lauri
 -css & yhteistiedot
+
+
+## Ohjeita
+	ETUSIVU - Rasmus - forms
+Header: Nimi(HAMK hiuskeidas...), keskellä; linkki sisään kirjautumis sivulle;
+Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
+Kuva;
+Article: Esittely teksti, kuva
+Footer: Yhteystietoja, some linkkejä
+
+	HINNASTO - Iiro - table
+Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
+Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
+Article: Hinnasto tietoja, jonkinlainen table;
+Footer: Yhteystietoja, some linkkejä
+
+	YHTEYSTIEDOT - Lauri -css pohja
+Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
+Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
+Article: Sijainti, yhteystiedot, Aukioloajat, jotain lisää???
+Footer: Yhteystietoja, some linkkejä
