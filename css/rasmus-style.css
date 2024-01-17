@@ -61,3 +61,11 @@ picture img{
     justify-content: center;
     max-height: 800px;
 }
+article{
+text-align: center;
+font-size: 25px;
+font-family:serif;
+}
+article H1{
+    font-weight: bold;
+}
