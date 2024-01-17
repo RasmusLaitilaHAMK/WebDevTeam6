@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    background-image: url(/images/635b6e3b30bfeae7b713cb8162aa2c9a.jpg);
     color: white;
 
 }
@@ -19,6 +20,7 @@ font-size: 15px;
 font-family: serif;
 font-weight: bold;
 justify-content: center;
+padding: 25px;
 }
 footer a{
     color: white;
