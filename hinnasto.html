@@ -3,17 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/rasmus-style.css">
+<body>
     <title>Hinnasto</title>
-    <footer>
-        <a href="index.html">Etusivu</a>  
-    </footer>
+    <header>
+        <h1>Hamkin Hiusparatiisi</h1>
+    </header>
+    <nav>
+        <ul class="top-menu">
+            <li><a href="index.html">Etusivu</a></li>
+            <li><a href="hinnasto.html">Hinnasto</a></li>
+            <li><a href="#">Yhteystiedot</a></li>
+        </ul>
+    </nav>
+
     <style>
         body {
-            background-color: rgb(26, 26, 26);
-            color: rgb(255, 255, 255);
-            outline-color:black;
-            display: flex;
-            justify-content: center;
+    
 
         }
         .one    {
@@ -31,10 +37,16 @@
             font-size: 20px;            
         }
         table{
-            font-size: 40px;
+            font-size: 32px;
+            display: flex;
+            justify-content: center;
         }
-        h1{
+        h2{
             font-size: 48px;
+            display: flex;
+            justify-content: center;
+
+
         }
             
 
@@ -42,31 +54,41 @@
     </style>
 </head>   
 <main>
-<table class="one">
-    <h1>Lyhyet hiukset</h1>
+<table>
+    
+    <h2>Lyhyet hiukset</h2>
     <td><b>Palvelu</b></td>
+    <td></td>
+
     <td>Hinta</td>
 </tr><tr>
     <td>Hiustenleikkuu</td>
+    <td></td>
+
     <td>30€</td>
 </tr><tr>
     <td>Hiustenleikkuu + Pesu</td>
+    <td></td>
     <td>38€</td>
 </tr><tr>
     <td>Värjäys</td>
+    <td></td>
     <td>70€</td>
 </tr></tr>
     <td>Kiharrus</td>
+    <td></td>
     <td>70€</td>
 </tr><tr>
     <td>Kampaus</td>
+    <td></td>
     <td>38€</td>
 </tr><tr>
     <td>Parranajo</td>
+    <td></td>
     <td>18€</td>
 
-<table class="two" >
-    <h1>Pitkät hiukset</h1>
+<table>
+    <h2>Pitkät hiukset</h2>
     <td> Palvelu</td>
     <td>Hinta</td>
  </tr><tr>
@@ -87,8 +109,13 @@
 </tr><tr>
     <td>Juhlakampaus</td>
     <td>88€</td>
-
+</table>
 </main>
+<footer>
+    <a href="https://github.com/RasmusLaitilaHAMK/WebDevTeam6">© 2024 Rasmus Laitila, Iiro Käki, Lauri Raatikainen</a>
+</footer>
 </body>
+
+
 
 </html>
