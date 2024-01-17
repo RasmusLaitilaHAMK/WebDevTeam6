@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+header, footer{
+display: flex;
+color: red;
+font-size: 50px;
+font-family: serif;
+font-weight: bold;
+justify-content: center;
+}
+header a{
+    justify-self: right;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.top-menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.top-menu a {
+    text-decoration: none;
+    color: gainsboro;
+    font-weight: bold;
+}
+.top-menu a:hover {
+    color: red;
+}
+
+.login{
+    justify-content: right;
+}
+.login a{
+    color: white;
+}
+.login a:hover{
+    color: red;
+}
+
+picture{
+    display: flex;
+    color: white;
+}
+
+picture img{
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    max-height: 800px;
+}
+main{
+    
+}
