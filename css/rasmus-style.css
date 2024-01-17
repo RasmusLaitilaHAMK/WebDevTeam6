@@ -3,13 +3,29 @@ body{
     color: white;
 
 }
-header, footer{
+header{
 display: flex;
 color: red;
 font-size: 50px;
 font-family: serif;
 font-weight: bold;
 justify-content: center;
+}
+
+footer{
+display: flex;
+color: white;
+font-size: 15px;
+font-family: serif;
+font-weight: bold;
+justify-content: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    color: red;
 }
 header a{
     justify-self: right;
@@ -61,6 +77,11 @@ picture img{
     justify-content: center;
     max-height: 800px;
 }
-main{
-    
+article{
+text-align: center;
+font-size: 25px;
+font-family:serif;
+}
+article H1{
+    font-weight: bold;
 }
