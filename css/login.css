@@ -19,6 +19,7 @@ font-size: 15px;
 font-family: serif;
 font-weight: bold;
 justify-content: center;
+padding:  15px;
 }
 footer a{
     color: white;
@@ -58,4 +59,5 @@ nav ul{
 
 form{
     text-align: center;
+    font-size: 25px;
 }
