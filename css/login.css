@@ -1,5 +1,4 @@
 body{
-    background-color: black;
     background-image: url(/images/635b6e3b30bfeae7b713cb8162aa2c9a.jpg);
     color: white;
 
@@ -20,7 +19,7 @@ font-size: 15px;
 font-family: serif;
 font-weight: bold;
 justify-content: center;
-padding: 25px;
+padding:  15px;
 }
 footer a{
     color: white;
@@ -58,32 +57,7 @@ nav ul{
     color: red;
 }
 
-.login{
-    justify-content: right;
-}
-.login a{
-    color: white;
-}
-.login a:hover{
-    color: red;
-}
-
-picture{
-    display: flex;
-    color: white;
-}
-
-picture img{
-    display: flex;
-    flex: auto;
-    justify-content: center;
-    max-height: 800px;
-}
-article{
-text-align: center;
-font-size: 25px;
-font-family:serif;
-}
-article H1{
-    font-weight: bold;
+form{
+    text-align: center;
+    font-size: 25px;
 }
