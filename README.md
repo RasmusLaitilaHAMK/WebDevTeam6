@@ -6,15 +6,15 @@
 ## Roles
 
 ### Rasmus
--etusivu
+-etusivu, login
 ### Iiro
 -hinnasto
 ### Lauri
--css & yhteistiedot
+-yhteistiedot
 
 
 ## Ohjeita
-	ETUSIVU - Rasmus - forms
+	ETUSIVU - Rasmus - forms -login
 Header: Nimi(HAMK hiuskeidas...), keskellä; linkki sisään kirjautumis sivulle;
 Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
 Kuva;
@@ -27,7 +27,7 @@ Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
 Article: Hinnasto tietoja, jonkinlainen table;
 Footer: Yhteystietoja, some linkkejä
 
-	YHTEYSTIEDOT - Lauri -css pohja
+	YHTEYSTIEDOT - Lauri
 Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
 Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
 Article: Sijainti, yhteystiedot, Aukioloajat, jotain lisää???
