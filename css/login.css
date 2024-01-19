@@ -1,6 +1,8 @@
 body{
     background-color: black;
-    background-image: url(/images/backround.jpg);
+    background-image: url(/images/copy.jpg);
+    max-width: 50%;
+    max-height: 50%;
     color: white;
 
 }
