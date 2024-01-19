@@ -12,6 +12,8 @@ header{
     font-family: serif;
     font-weight: bold;
     justify-content: center;
+    max-width: 100%;
+    
 }
 
 footer{
@@ -71,6 +73,14 @@ nav ul{
 }
 .login a:hover{
     color: red;
+}
+
+#image{
+    align-items: center;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 picture{
