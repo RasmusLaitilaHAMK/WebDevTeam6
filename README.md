@@ -14,12 +14,18 @@
 
 
 ## Ohjeita
-	ETUSIVU - Rasmus - forms -login
-Header: Nimi(HAMK hiuskeidas...), keskellä; linkki sisään kirjautumis sivulle;
-Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
-Kuva;
-Article: Esittely teksti, kuva
-Footer: Yhteystietoja, some linkkejä
+	**ETUSIVU - Rasmus **
+	-Header: Nimi/yrityksen logo, oikealla linkki kirjautumis sivulle.
+	-Nav linkki kaikille sivuille: Etusivu Hinnasto, Yhteystiedot
+	-Kuva
+	-Artikkeli: Yrityksen esittely
+	-Kuva
+	-Footer: Copyright
+
+	**Login - Rasmus -> Forms**
+	-Sama header, mutta ilman linkkiä Login sivulle(Ollaan siellä jo)
+	-Yksinkertainen UID, email, pswrd kirjautumis osio
+	-Footer: Copyright
 
 	HINNASTO - Iiro - table
 Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
