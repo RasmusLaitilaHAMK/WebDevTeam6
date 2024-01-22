@@ -1,6 +1,8 @@
 body{
     background-color: black;
+    background-image: url(../images/backround.jpg);
     color: white;
+    justify-content: center;
 
 }
 header{
@@ -10,6 +12,8 @@ header{
     font-family: serif;
     font-weight: bold;
     justify-content: center;
+    max-width: 100%;
+    
 }
 
 footer{
@@ -19,6 +23,10 @@ font-size: 15px;
 font-family: serif;
 font-weight: bold;
 justify-content: center;
+padding: 30px;
+background-color: black;
+margin-top: 20px;
+margin-bottom: 0px;
 }
 footer a{
     color: white;
@@ -36,6 +44,7 @@ nav{
     justify-content: center;
     margin-right: 50px;
     font-size: 30px;
+    margin-bottom: 30px;
 }
 
 nav ul{
@@ -64,6 +73,14 @@ nav ul{
 }
 .login a:hover{
     color: red;
+}
+
+#image{
+    align-items: center;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 picture{
