@@ -34,8 +34,10 @@ Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
 Article: Hinnasto tietoja, jonkinlainen table;
 Footer: Yhteystietoja, some linkkejä
 
-	YHTEYSTIEDOT - Lauri
-Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
-Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
-Article: Sijainti, yhteystiedot, Aukioloajat, jotain lisää???
-Footer: Yhteystietoja, some linkkejä
+**YHTEYSTIEDOT - Lauri**
+    -Header: Nimi(HAMK hiuskeidas)
+    -Nav: linkit kaikille sivuille: Etusivu, Hinnasto, Yhteystiedot
+    -Main: kuva
+    -Article: Osoite, puhelinnumero
+    -Table: Aukioloajat (Päivä, kellonaika)
+    -Footer: Copyright
