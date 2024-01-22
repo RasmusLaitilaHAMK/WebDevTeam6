@@ -13,7 +13,7 @@
 -yhteistiedot
 
 
-## Ohjeita
+## Ohjeita ##
 	**ETUSIVU - Rasmus **
 	-Header: Nimi/yrityksen logo, oikealla linkki kirjautumis sivulle.
 	-Nav linkki kaikille sivuille: Etusivu Hinnasto, Yhteystiedot
