@@ -6,7 +6,7 @@ body{
 }
 header{
     display: flex;
-    color: red;
+    color: rgb(223, 206, 56);
     font-size: 45px;
     font-family: serif;
     font-weight: bold;
@@ -27,7 +27,7 @@ footer a{
     text-decoration: none;
 }
 footer a:hover{
-    color: red;
+    color: rgb(223, 206, 56);
 }
 header a{
     justify-self: right;
