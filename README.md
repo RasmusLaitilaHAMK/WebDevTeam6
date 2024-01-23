@@ -28,11 +28,13 @@
 	-Yksinkertainen UID, email, pswrd kirjautumis osio
 	-Footer: Copyright
 
-HINNASTO - Iiro - table
-Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
-Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
-Article: Hinnasto tietoja, jonkinlainen table;
-Footer: Yhteystietoja, some linkkejä
+**HINNASTO - Iiro - table**
+	-Header: Nimi(HAMK hiuskeidas...), keskellä; paikantäyttäjä haku palkki;
+	-Nav: linkit Etusivu, Hinnasto, Yhteystiedot; keskellä;
+	-Tables: Hinnasto, lynyet, pitkät
+	-Comments
+	-body: Hinnasto tietoja, jonkinlainen table;
+	-Footer: copyright
 
 **YHTEYSTIEDOT - Lauri**
     -Header: Nimi(HAMK hiuskeidas)
