@@ -8,7 +8,7 @@
 ### Rasmus
 -etusivu, login
 ### Iiro
--hinnasto
+-hinnasto, hinnasto.css
 ### Lauri
 -yhteistiedot
 
